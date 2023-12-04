@@ -1,21 +1,23 @@
-100
-
-...
-
-10000
+100 ... 10000
 
 
 
 merged audiofiles with Audacity 2.1.0 which still can be found on sourceforge (https://sourceforge.net/projects/audacity/?lang=de)
 
+
 Project rate 7812Hz
 
 Mono
 
-
+exported as "Other uncompressed files" - Options - Header: wav (Microsoft) / Encoding: Unsigned 8 bit PCM
 
 
 Creating custom audiofiles for the Flysight
 https://www.youtube.com/watch?v=KNmeb2j3HjE
 
+
 Bonusfile: sally.wav
+
+
+original audiofiles
+https://github.com/flysight/flysight/tree/master/audio
