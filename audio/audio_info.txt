@@ -1,2 +1,21 @@
+100
+
+...
+
+10000
+
+
+
+merged audiofiles with Audacity 2.1.0 which still can be found on sourceforge (https://sourceforge.net/projects/audacity/?lang=de)
+
+Project rate 7812Hz
+
+Mono
+
+
+
+
+Creating custom audiofiles for the Flysight
+https://www.youtube.com/watch?v=KNmeb2j3HjE
 
 Bonusfile: sally.wav
